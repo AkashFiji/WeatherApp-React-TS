@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# WeatherApp 🌦️
 
-live: weatherapp-react-ts.vercel.app
+A responsive weather application built with React and TypeScript. Displays real-time weather details such as temperature, wind speed, and humidity, optimized for both mobile and desktop screens.
+
+## Live Demo
+
+🌐 **Check it out here:** [weatherapp-react-ts.vercel.app](https://weatherapp-react-ts.vercel.app)
 
 ## Available Scripts
 
